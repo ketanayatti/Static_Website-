@@ -53,13 +53,6 @@ A modern, responsive static website showcasing multiple business/portfolio secti
 - Barber shop services
 - Service menu, staff profiles, booking information
 
-## 📱 Screenshots
-
-### Desktop View
-![Desktop Screenshot](screenshots/desktop-view.png)
-
-### Mobile View
-![Mobile Screenshot](screenshots/mobile-view.png)
 
 ---
 
